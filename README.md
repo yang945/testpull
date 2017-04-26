@@ -1,1 +1,1 @@
-"This is the test branch file created by the owner." 
+This is the test branch file created by the owner.
